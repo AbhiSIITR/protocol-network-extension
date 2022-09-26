@@ -264,7 +264,7 @@ components:
               rsp_id:
                 type: string
                 description: Unique id of the RSP Block
-                example: "ABF428684"
+                example: "ABC12345"
               correction:
                  $ref: '#/components/schemas/correction'
               transaction_id:
